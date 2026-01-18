@@ -14,3 +14,48 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+
+# Amit Sharma – Personal Portfolio Website
+
+A modern, fully responsive personal portfolio built using **React + Vite**, featuring sleek UI/UX, animations, sections for Skills, Projects, Education, and Contact, plus SEO-friendly structure.
+
+This portfolio showcases my work in **Full-Stack Web Development**, **Frontend UI Engineering**, and **Backend Development**, and serves as an interactive CV for hiring managers and collaborations.
+
+---
+
+## 🚀 Tech Stack
+
+**Frontend:**
+- React.js (Vite)
+- JavaScript (ES6+)
+- Tailwind CSS (UI/UX)
+- CSS3
+- Framer Motion (Animations)
+- Typewriter Effects
+- Lucide Icons
+
+**Build Tools:**
+- Vite (Lightning fast dev & build)
+- npm / Node.js
+
+---
+
+## 🎯 Key Features
+
+- Fully Responsive (Mobile + Tablet + Desktop)
+- Modern UI/UX with Smooth Animations
+- Hero Section with Typewriter Effect
+- Projects Showcase with Live Links
+- Skills & Tech Stacks with Icons
+- Education & Experience Timeline
+- Contact Form + Social Links
+- Importable Resume PDF
+- Clean, Scalable Code Structure
+- SEO Friendly Page Structure
+
+---
+
+## 📂 Project Structure
+
