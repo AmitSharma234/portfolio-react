@@ -60,26 +60,62 @@ This portfolio showcases my work in **Full-Stack Web Development**, **Frontend U
 ## 📂 Project Structure
 
 portfolio-react/
-├─ public/
-│ ├─ Resume.pdf
-├─ src/
-│ ├─ assets/ # images & logos
-│ ├─ components/ # all website sections
-│ │ ├─ Hero.jsx
-│ │ ├─ About.jsx
-│ │ ├─ Skills.jsx
-│ │ ├─ Projects.jsx
-│ │ ├─ Experience.jsx
-│ │ ├─ Education.jsx
-│ │ ├─ Contact.jsx
-│ │ ├─ Header.jsx
-│ │ ├─ Footer.jsx
-│ │ └─ SplashScreen.jsx
-│ ├─ App.jsx
-│ ├─ main.jsx
-│ ├─ index.css
-├─ package.json
-├─ vite.config.js
-└─ README.md
+├─ public/ # Static files served at root
+│ └─ Resume.pdf # Exported resume accessible publicly
+│
+├─ src/ # Application source code
+│ ├─ assets/ # Images, logos & static media
+│ │ ├─ p1.jpg
+│ │ ├─ p2.jpg
+│ │ ├─ p3.jpeg
+│ │ └─ project-logos.png
+│ │
+│ ├─ components/ # Modular React components (each section)
+│ │ ├─ Hero.jsx # Hero landing section
+│ │ ├─ About.jsx # Personal introduction section
+│ │ ├─ Skills.jsx # Technical skills with icons
+│ │ ├─ Projects.jsx # Portfolio projects with live links
+│ │ ├─ Experience.jsx # Work experience timeline
+│ │ ├─ Education.jsx # Education timeline & credentials
+│ │ ├─ Contact.jsx # Contact form + social links
+│ │ ├─ Header.jsx # Top navigation bar
+│ │ ├─ Footer.jsx # Footer + resume quick link
+│ │ └─ SplashScreen.jsx # Loading animation screen
+│ │
+│ ├─ App.jsx # Root application entry file
+│ ├─ main.jsx # React DOM renderer
+│ ├─ index.css # Global styles (Tailwind + custom)
+│
+├─ package.json # Dependencies + scripts
+├─ vite.config.js # Vite configuration
+└─ README.md # Project documentation
 
+---
+
+### 📝 Explanation
+
+| Folder / File        | Purpose |
+|---------------------|---------|
+| `public/`           | Stores public static assets served directly by Vite (e.g., Resume.pdf). |
+| `src/`              | Main source code directory for the React application. |
+| `src/assets/`       | Contains images, icons, and static files imported into components. |
+| `src/components/`   | Reusable UI sections that form the portfolio content. |
+| `App.jsx`           | Wraps all routes and global providers. |
+| `main.jsx`          | React root entry point connecting to DOM. |
+| `index.css`         | Global styles, Tailwind directives, and resets. |
+| `package.json`      | Tracks dependencies, scripts, and project metadata. |
+| `vite.config.js`    | Config for build tooling and optimizations. |
+| `README.md`         | Documentation for developers, recruiters, and contributors. |
+
+---
+
+If you want, I can also provide:
+
+✔ Stunning **Markdown badges** (React, Tailwind, Vite)  
+✔ A **Screenshots** section for GitHub preview  
+✔ A **Deployment Guide (Vercel / Netlify / GH Pages)**  
+✔ A **Contributing + License** section  
+
+Just say:  
+**"Add badges & deployment guide"** or **"Add screenshots section"**.
 ---
