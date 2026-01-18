@@ -108,14 +108,3 @@ portfolio-react/
 | `README.md`         | Documentation for developers, recruiters, and contributors. |
 
 ---
-
-If you want, I can also provide:
-
-✔ Stunning **Markdown badges** (React, Tailwind, Vite)  
-✔ A **Screenshots** section for GitHub preview  
-✔ A **Deployment Guide (Vercel / Netlify / GH Pages)**  
-✔ A **Contributing + License** section  
-
-Just say:  
-**"Add badges & deployment guide"** or **"Add screenshots section"**.
----
