@@ -59,3 +59,25 @@ This portfolio showcases my work in **Full-Stack Web Development**, **Frontend U
 
 ## 📂 Project Structure
 
+portfolio-react/
+├─ public/
+│ ├─ Resume.pdf
+├─ src/
+│ ├─ assets/ # images & logos
+│ ├─ components/ # all website sections
+│ │ ├─ Hero.jsx
+│ │ ├─ About.jsx
+│ │ ├─ Skills.jsx
+│ │ ├─ Projects.jsx
+│ │ ├─ Experience.jsx
+│ │ ├─ Education.jsx
+│ │ ├─ Contact.jsx
+│ │ ├─ Header.jsx
+│ │ ├─ Footer.jsx
+│ │ └─ SplashScreen.jsx
+│ ├─ App.jsx
+│ ├─ main.jsx
+│ ├─ index.css
+├─ package.json
+├─ vite.config.js
+└─ README.md
