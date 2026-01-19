@@ -60,11 +60,11 @@ This portfolio showcases my work in **Full-Stack Web Development**, **Frontend U
 ## 📂 Project Structure
 
 portfolio-react/
-├─ public/ # Static files served at root
-│ └─ Resume.pdf # Exported resume accessible publicly
+├─ public/ 
+│ └─ Resume.pdf 
 │
 ├─ src/ # Application source code
-│ ├─ assets/ # Images, logos & static media
+│ ├─ assets/ 
 │ │ ├─ p1.jpg
 │ │ ├─ p2.jpg
 │ │ ├─ p3.jpeg
