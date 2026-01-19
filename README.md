@@ -70,7 +70,7 @@ portfolio-react/
 │ │ ├─ p3.jpeg
 │ │ └─ project-logos.png
 │ │
-│ ├─ components/ # Modular React components (each section)
+│ ├─ components/ 
 │ │ ├─ Hero.jsx 
 │ │ ├─ About.jsx 
 │ │ ├─ Skills.jsx 
@@ -106,5 +106,7 @@ portfolio-react/
 | `package.json`      | Tracks dependencies, scripts, and project metadata. |
 | `vite.config.js`    | Config for build tooling and optimizations. |
 | `README.md`         | Documentation for developers, recruiters, and contributors. |
+
+---
 
 ---
