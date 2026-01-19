@@ -71,13 +71,13 @@ portfolio-react/
 │ │ └─ project-logos.png
 │ │
 │ ├─ components/ # Modular React components (each section)
-│ │ ├─ Hero.jsx # Hero landing section
-│ │ ├─ About.jsx # Personal introduction section
-│ │ ├─ Skills.jsx # Technical skills with icons
-│ │ ├─ Projects.jsx # Portfolio projects with live links
-│ │ ├─ Experience.jsx # Work experience timeline
-│ │ ├─ Education.jsx # Education timeline & credentials
-│ │ ├─ Contact.jsx # Contact form + social links
+│ │ ├─ Hero.jsx 
+│ │ ├─ About.jsx 
+│ │ ├─ Skills.jsx 
+│ │ ├─ Projects.jsx 
+│ │ ├─ Experience.jsx 
+│ │ ├─ Education.jsx 
+│ │ ├─ Contact.jsx 
 │ │ ├─ Header.jsx # Top navigation bar
 │ │ ├─ Footer.jsx # Footer + resume quick link
 │ │ └─ SplashScreen.jsx # Loading animation screen
