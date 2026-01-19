@@ -82,9 +82,9 @@ portfolio-react/
 │ │ ├─ Footer.jsx # Footer + resume quick link
 │ │ └─ SplashScreen.jsx # Loading animation screen
 │ │
-│ ├─ App.jsx # Root application entry file
-│ ├─ main.jsx # React DOM renderer
-│ ├─ index.css # Global styles (Tailwind + custom)
+│ ├─ App.jsx 
+│ ├─ main.jsx 
+│ ├─ index.css 
 │
 ├─ package.json 
 ├─ vite.config.js 
