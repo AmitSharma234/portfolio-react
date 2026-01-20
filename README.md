@@ -107,5 +107,4 @@ portfolio-react/
 | `vite.config.js`    | Config for build tooling and optimizations. |
 | `README.md`         | Documentation for developers, recruiters, and contributors. |
 
----
 
