@@ -63,7 +63,7 @@ portfolio-react/
 ├─ public/ 
 │ └─ Resume.pdf 
 │
-├─ src/ # Application source code
+├─ src/ 
 │ ├─ assets/ 
 │ │ ├─ p1.jpg
 │ │ ├─ p2.jpg
