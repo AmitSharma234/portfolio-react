@@ -104,7 +104,6 @@ portfolio-react/
 | `main.jsx`          | React root entry point connecting to DOM. |
 | `index.css`         | Global styles, Tailwind directives, and resets. |
 | `package.json`      | Tracks dependencies, scripts, and project metadata. |
-| `vite.config.js`    | Config for build tooling and optimizations. |
-| `README.md`         | Documentation for developers, recruiters, and contributors. |
+| `vite
 
 
