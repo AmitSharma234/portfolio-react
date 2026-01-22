@@ -91,19 +91,3 @@ portfolio-react/
 └─ README.md 
 
 ---
-
-### 📝 Explanation
-
-| Folder / File        | Purpose |
-|---------------------|---------|
-| `public/`           | Stores public static assets served directly by Vite (e.g., Resume.pdf). |
-| `src/`              | Main source code directory for the React application. |
-| `src/assets/`       | Contains images, icons, and static files imported into components. |
-| `src/components/`   | Reusable UI sections that form the portfolio content. |
-| `App.jsx`           | Wraps all routes and global providers. |
-| `main.jsx`          | React root entry point connecting to DOM. |
-| `index.css`         | Global styles, Tailwind directives, and resets. |
-| `package.json`      | Tracks dependencies, scripts, and project metadata. |
-| `vite
-
-
