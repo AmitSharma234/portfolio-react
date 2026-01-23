@@ -57,35 +57,33 @@ This portfolio showcases my work in **Full-Stack Web Development**, **Frontend U
 
 ---
 
-## 📂 Project Structure
-
 portfolio-react/
-├─ public/ 
-│ └─ Resume.pdf 
+├─ public/
+│  └─ Resume.pdf                # Public static assets
 │
-├─ src/ 
-│ ├─ assets/ 
-│ │ ├─ p1.jpg
-│ │ ├─ p2.jpg
-│ │ ├─ p3.jpeg
-│ │ └─ project-logos.png
-│ │
-│ ├─ components/ 
-│ │ ├─ Hero.jsx 
-│ │ ├─ About.jsx 
-│ │ ├─ Skills.jsx 
-│ │ ├─ Projects.jsx 
-│ │ ├─ Experience.jsx 
-│ │ ├─ Education.jsx 
-│ │ ├─ Contact.jsx 
-│ │ ├─ Header.jsx 
-│ │ ├─ Footer.jsx 
-│ │ └─ SplashScreen.jsx 
-│ │
-│ ├─ App.jsx 
-│ ├─ main.jsx 
-│ ├─ index.css 
+├─ src/
+│  ├─ assets/                   # Images, logos, vectors, static media
+│  │  ├─ p1.jpg
+│  │  ├─ p2.jpg
+│  │  ├─ p3.jpeg
+│  │  └─ project-logos.png
+│  │
+│  ├─ components/               # Reusable UI components / sections
+│  │  ├─ Hero.jsx
+│  │  ├─ About.jsx
+│  │  ├─ Skills.jsx
+│  │  ├─ Projects.jsx
+│  │  ├─ Experience.jsx
+│  │  ├─ Education.jsx
+│  │  ├─ Contact.jsx
+│  │  ├─ Header.jsx
+│  │  ├─ Footer.jsx
+│  │  └─ SplashScreen.jsx
+│  │
+│  ├─ App.jsx                   # Main application wrapper
+│  ├─ main.jsx                  # React entry point
+│  ├─ index.css                 # Global styles
 │
-├─ package.json 
-├─ vite.config.js 
-└─ README.md 
+├─ package.json                 # Project metadata and dependencies
+├─ vite.config.js               # Vite configuration
+└─ README.md                    # Project documentation
