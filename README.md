@@ -57,18 +57,20 @@ This portfolio showcases my work in **Full-Stack Web Development**, **Frontend U
 
 ---
 
+Project Structure
+
 portfolio-react/
 ├─ public/
-│  └─ Resume.pdf                # Public static assets
+│  └─ Resume.pdf               
 │
 ├─ src/
-│  ├─ assets/                   # Images, logos, vectors, static media
+│  ├─ assets/                  
 │  │  ├─ p1.jpg
 │  │  ├─ p2.jpg
 │  │  ├─ p3.jpeg
 │  │  └─ project-logos.png
 │  │
-│  ├─ components/               # Reusable UI components / sections
+│  ├─ components/              
 │  │  ├─ Hero.jsx
 │  │  ├─ About.jsx
 │  │  ├─ Skills.jsx
