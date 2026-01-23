@@ -80,10 +80,10 @@ portfolio-react/
 │  │  ├─ Footer.jsx
 │  │  └─ SplashScreen.jsx
 │  │
-│  ├─ App.jsx                   # Main application wrapper
-│  ├─ main.jsx                  # React entry point
-│  ├─ index.css                 # Global styles
+│  ├─ App.jsx                   
+│  ├─ main.jsx                  
+│  ├─ index.css                 
 │
-├─ package.json                 # Project metadata and dependencies
-├─ vite.config.js               # Vite configuration
-└─ README.md                    # Project documentation
+├─ package.json                 
+├─ vite.config.js               
+└─ README.md                    
