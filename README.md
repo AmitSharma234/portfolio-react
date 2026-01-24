@@ -88,3 +88,5 @@ portfolio-react/
 ├─ package.json                # Dependencies & scripts
 ├─ vite.config.js              # Vite build and alias configuration
 └─ README.md                   # Documentation
+
+---
