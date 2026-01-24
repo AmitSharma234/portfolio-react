@@ -60,10 +60,10 @@ Project Structure
 
 portfolio-react/
 ├─ public/
-│  └─ Resume.pdf               # Publicly accessible resume for recruiters
+│  └─ Resume.pdf               
 │
 ├─ src/
-│  ├─ assets/                  # Static media assets used across components
+│  ├─ assets/                 
 │  │  ├─ p1.jpg
 │  │  ├─ p2.jpg
 │  │  ├─ p3.jpeg
