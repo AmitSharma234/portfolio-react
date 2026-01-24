@@ -56,36 +56,35 @@ This portfolio showcases my work in **Full-Stack Web Development**, **Frontend U
 - SEO Friendly Page Structure
 
 ---
-
 Project Structure
 
 portfolio-react/
 ├─ public/
-│  └─ Resume.pdf               
+│  └─ Resume.pdf               # Publicly accessible resume for recruiters
 │
 ├─ src/
-│  ├─ assets/                  
+│  ├─ assets/                  # Static media assets used across components
 │  │  ├─ p1.jpg
 │  │  ├─ p2.jpg
 │  │  ├─ p3.jpeg
 │  │  └─ project-logos.png
 │  │
-│  ├─ components/              
-│  │  ├─ Hero.jsx
-│  │  ├─ About.jsx
-│  │  ├─ Skills.jsx
-│  │  ├─ Projects.jsx
-│  │  ├─ Experience.jsx
-│  │  ├─ Education.jsx
-│  │  ├─ Contact.jsx
-│  │  ├─ Header.jsx
-│  │  ├─ Footer.jsx
-│  │  └─ SplashScreen.jsx
+│  ├─ components/              # Core modular components of the portfolio
+│  │  ├─ Hero.jsx              # Landing section with intro
+│  │  ├─ About.jsx             # Personal and profile details
+│  │  ├─ Skills.jsx            # Tech skills and toolchain
+│  │  ├─ Projects.jsx          # Portfolio projects showcase
+│  │  ├─ Experience.jsx        # Work and internship history
+│  │  ├─ Education.jsx         # Academic profile
+│  │  ├─ Contact.jsx           # Contact form and social links
+│  │  ├─ Header.jsx            # Navigation bar and logo
+│  │  ├─ Footer.jsx            # Footer with copyright & links
+│  │  └─ SplashScreen.jsx      # Initial app loading screen animation
 │  │
-│  ├─ App.jsx                   
-│  ├─ main.jsx                  
-│  ├─ index.css                 
-│
-├─ package.json                 
-├─ vite.config.js               
-└─ README.md                    
+│  ├─ App.jsx                  # Main application entry component
+│  ├─ main.jsx                 # ReactDOM bootstrap and rendering
+│  ├─ index.css                # Global stylesheets (wrapped with Tailwind/custom)
+|
+├─ package.json                # Dependencies & scripts
+├─ vite.config.js              # Vite build and alias configuration
+└─ README.md                   # Documentation
