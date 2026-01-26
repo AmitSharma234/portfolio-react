@@ -81,12 +81,11 @@ portfolio-react/
 │  │  ├─ Footer.jsx            # Footer with copyright & links
 │  │  └─ SplashScreen.jsx      # Initial app loading screen animation
 │  │
-│  ├─ App.jsx                  # Main application entry component
-│  ├─ main.jsx                 # ReactDOM bootstrap and rendering
-│  ├─ index.css                # Global stylesheets (wrapped with Tailwind/custom)
+│  ├─ App.jsx                 
+│  ├─ main.jsx                
+│  ├─ index.css                
 |
 ├─ package.json                
 ├─ vite.config.js            
 └─ README.md                   
-
 ---
