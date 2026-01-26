@@ -69,8 +69,8 @@ portfolio-react/
 │  │  ├─ p3.jpeg
 │  │  └─ project-logos.png
 │  │
-│  ├─ components/              # Core modular components of the portfolio
-│  │  ├─ Hero.jsx              # Landing section with intro
+│  ├─ components/             
+│  │  ├─ Hero.jsx             
 │  │  ├─ About.jsx             # Personal and profile details
 │  │  ├─ Skills.jsx            # Tech skills and toolchain
 │  │  ├─ Projects.jsx          # Portfolio projects showcase
