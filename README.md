@@ -85,8 +85,8 @@ portfolio-react/
 │  ├─ main.jsx                 # ReactDOM bootstrap and rendering
 │  ├─ index.css                # Global stylesheets (wrapped with Tailwind/custom)
 |
-├─ package.json                # Dependencies & scripts
-├─ vite.config.js              # Vite build and alias configuration
-└─ README.md                   # Documentation
+├─ package.json                
+├─ vite.config.js            
+└─ README.md                   
 
 ---
