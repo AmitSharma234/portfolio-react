@@ -74,7 +74,7 @@ portfolio-react/
 │  │  ├─ About.jsx            
 │  │  ├─ Skills.jsx            
 │  │  ├─ Projects.jsx          
-│  │  ├─ Experience.jsx        # Work and internship history
+│  │  ├─ Experience.jsx       
 │  │  ├─ Education.jsx         # Academic profile
 │  │  ├─ Contact.jsx           # Contact form and social links
 │  │  ├─ Header.jsx            # Navigation bar and logo
