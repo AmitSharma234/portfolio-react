@@ -73,7 +73,7 @@ portfolio-react/
 │  │  ├─ Hero.jsx             
 │  │  ├─ About.jsx            
 │  │  ├─ Skills.jsx            
-│  │  ├─ Projects.jsx          # Portfolio projects showcase
+│  │  ├─ Projects.jsx          
 │  │  ├─ Experience.jsx        # Work and internship history
 │  │  ├─ Education.jsx         # Academic profile
 │  │  ├─ Contact.jsx           # Contact form and social links
