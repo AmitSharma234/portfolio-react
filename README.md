@@ -79,7 +79,7 @@ portfolio-react/
 │  │  ├─ Contact.jsx           
 │  │  ├─ Header.jsx            
 │  │  ├─ Footer.jsx            
-│  │  └─ SplashScreen.jsx      # Initial app loading screen animation
+│  │  └─ SplashScreen.jsx      
 │  │
 │  ├─ App.jsx                 
 │  ├─ main.jsx                
