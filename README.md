@@ -77,7 +77,7 @@ portfolio-react/
 │  │  ├─ Experience.jsx       
 │  │  ├─ Education.jsx       
 │  │  ├─ Contact.jsx           
-│  │  ├─ Header.jsx            # Navigation bar and logo
+│  │  ├─ Header.jsx            
 │  │  ├─ Footer.jsx            # Footer with copyright & links
 │  │  └─ SplashScreen.jsx      # Initial app loading screen animation
 │  │
