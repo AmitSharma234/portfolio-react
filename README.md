@@ -64,7 +64,7 @@ portfolio-react/
 │
 ├─ src/
 │  ├─ assets/                 
-│  │  ├─ p1.jpg
+│  │  ├─ photo1.jpg
 │  │  ├─ p2.jpg
 │  │  ├─ p3.jpeg
 │  │  └─ project-logo.png
