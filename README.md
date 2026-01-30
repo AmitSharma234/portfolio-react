@@ -67,7 +67,7 @@ portfolio-react/
 │  │  ├─ p1.jpg
 │  │  ├─ p2.jpg
 │  │  ├─ p3.jpeg
-│  │  └─ project-logos.png
+│  │  └─ project-logo.png
 │  │
 │  ├─ components/             
 │  │  ├─ Hero.jsx             
