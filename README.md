@@ -44,7 +44,7 @@ This portfolio showcases my work in **Full-Stack Web Development**, **Frontend U
 
 ## 🎯 Key Features
 
-- Fully Responsive (Mobile + Tablet + Desktop)
+- Fully Responsive 
 - Modern UI/UX with Smooth Animations
 - Hero Section with Typewriter Effect
 - Projects Showcase with Live Links
