@@ -32,7 +32,7 @@ This portfolio showcases my work in **Full-Stack Web Development**, **Frontend U
 - JavaScript (ES6+)
 - Tailwind CSS (UI/UX)
 - CSS3
-- Framer Motion (Animat
+- Framer Motion 
 - Typewriter Effects
 - Lucide Icons
 
