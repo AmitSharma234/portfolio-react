@@ -55,7 +55,7 @@ This portfolio showcases my work in **Full-Stack Web Development**, **Frontend U
 - Clean, Scalable Code Structure
 - SEO Friendly Page Structure
 
----
+--
 Project Structure
 
 portfolio-react/
